@@ -1,2 +1,2 @@
-# Sportify-dwbi-2022-gB
+# spotify-dwbi-2022-gb
 Pengerjaan proyek
