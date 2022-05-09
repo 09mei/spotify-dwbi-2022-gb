@@ -5,7 +5,7 @@ Pada proyek ini dikerjakan oleh :
 + 12S18006  – Mei Kristina Panjaitan
 + 12S18023 – Agustina Silaen
 + 12S18055 – Raja Gading Muda Tulen Sihite
-
+Dokumen : https://docs.google.com/document/d/1sigvYU6fCYqn0Z672TQlLYdNAbZQ3qEm/edit?usp=sharing&ouid=101098540613479425472&rtpof=true&sd=true
 Dan setiap masing masing mendapat tugas masing masing yang dapat dikerjakan. 
 
 
